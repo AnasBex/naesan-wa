@@ -1,8 +1,8 @@
 {
-  "name": "krypton-whatsapp-bot",
+  "name": "naesan-wa",
   "version": "1.7.9",
   "private": true,
-  "description": "KryPtoN Whatsapp Bot",
+  "description": "Naesan Whatsapp Bot",
   "main": "krypton.js",
   "scripts": {
     "start": "node start",
@@ -13,10 +13,10 @@
     "lint:fix": "eslint . --ignore-path .gitignore --ext .ts --fix --cache --cache-location .cache/eslintcache",
     "debug": "tsc --build tsconfig.json && eslint . --ignore-path .gitignore --ext .ts --cache --cache-location .cache/eslintcache && jsonlint locales/*"
   },
-  "author": "KryPtoN",
+  "author": "AnasBex",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot.git"
+    "url": "git+https://github.com/AnasBex/naesan-wa.git"
   },
   "keywords": [
     "Whatsapp",
@@ -38,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot/issues"
   },
-  "homepage": "https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot",
+  "homepage": "https://github.com/AnasBex/naesan-wa",
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
