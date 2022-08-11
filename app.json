@@ -17,11 +17,11 @@
       "required": false
     },
     "OWNER_PHONE": {
-      "description": "Enter your phone number.",
+      "description": "Nomor AnasBex.",
       "required": true
     },
     "BOT_NUMBER": {
-      "description": "Enter bot phone number.",
+      "description": "Nomor Bot.",
       "required": true
     },
     "KEY_REMOVEBG": {
