@@ -30,11 +30,11 @@
     },
     "API_KEY": {
       "description": "Masukkan api key universal mean seperti api rest tapi gunakan semua fiture.",
-      "required": true
+      "required": false
     },
     "WEB_API": {
       "description": "Masukkan api web awal untuk auth Anda.",
-      "required": true
+      "required": false
     }
   },
   "addons": [
