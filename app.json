@@ -29,11 +29,11 @@
       "required": true
     },
     "API_KEY": {
-      "description": "Enter api key universal mean is like api rest but use all fiture.",
+      "description": "Masukkan api key universal mean seperti api rest tapi gunakan semua fiture.",
       "required": true
     },
     "WEB_API": {
-      "description": "Enter initial web api for your auth.",
+      "description": "Masukkan api web awal untuk auth Anda.",
       "required": true
     }
   },
