@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AnasBex/naesan-wa/media/naesan.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/AnasBex/naesan-wa/media/naesan.jpg" alt="ALPHA BOT" width="100" height="100"/>
 
 
 </p>
