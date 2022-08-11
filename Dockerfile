@@ -1,11 +1,19 @@
-FROM kry9ton/wabot-image:latest
+FROM node:lts-buster
 
-#
-# Clone repo and prepare working directory
-#
-RUN git clone -b master https://github.com/AnasBex/naesan-wa /home/wabot
-WORKDIR /home/wabot
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
-RUN npm i
+COPY package.json .
+
+RUN npm install && npm install pm2 -g 
+
+COPY . .
+
+EXPOSE 5000
 
 CMD ["npm", "start"]

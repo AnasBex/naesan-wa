@@ -1,138 +1,76 @@
-<div align="center">
- 
-# KryPtoN Whatsapp Bot 
-[![Version](https://img.shields.io/badge/version%20K--wa%20Bot-v0.1.0-brightgreen)](https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot/releases)
-[![Github Badge](https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot/actions/workflows/node.js.yml/badge.svg)](https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot/actions)
-[![DeepScan grade](https://deepscan.io/api/teams/11540/projects/15621/branches/315271/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&tid=11540&pid=15621&bid=315271)
+<p align="center">
+<img src="https://github.com/AnasBex/naesan-wa/blob/v1/media/naesan.jpg" alt="ALPHA BOT" width="100"/>
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnasBex/naesan-wa)
+</p>
+<p align="center">
+<a href="#"><img title="NAESAN MULTI DEVICE" src="https://img.shields.io/badge/NAESAN MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/AnasBex/naesan-wa"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/AnasBex/followers"><img title="Followers" src="https://img.shields.io/github/followers/AnasBex?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeone-ofc/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Haruka-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeone-ofc/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Haruka-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeone-ofc/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/AnasBex/naesan-wa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/AnasBex/naesan-wa/"><img title="Size" src="https://img.shields.io/github/repo-size/AnasBex/naesan-wa?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/zeeone-ofc/Haruka-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
 
+<p align="center">
+  <a href="https://github.com/zeeone-ofc/Haruka-Md#requirements">Requirements</a> •
+  <a href="https://github.com/zeeone-ofc/Haruka-Md#instalasi">Installation</a> •
+  <a href="https://github.com/zeeone-ofc/Haruka-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/zeeone-ofc/Haruka-Md#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/zeeone-ofc/Haruka-Md#donate">Donate</a>
+</p>
 </div>
 
-## Features
 
-| Sticker Creator|                Feature                          |
-| :------------: | :---------------------------------------------: |
-|       ✅       | Send Photo with Caption                         |
-|       ✅       | Reply A Photo                                   |
-|       ✅       | Image Url                                       |
-|       ✅       | Animated sticker using giphy url                |
-|       ✅       | sticker with no background                      |
-|       WIP      | sticker meme                                    |
-
-| Downloader     |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅       |   Tiktok Downloader (No WM & WM)                |
-|       ✅       |   Twitter Video Downloader                      |
-|       ✅       |   Facebook Video Downloader (SD & HD)           |
-|       BUG      |   Instagram Video Downloader                    |
-|       ✅       |   Youtube MP3  Downloader                       |
-|       ✅       |   Youtube MP4 Downloader                        |
-|       ✅       |   Mirroring download to gdrive                  |
-
-| Edukasi        |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅       |   Translate text (quote only)                   |
-|       ✅       |   Brainly search engine                         |
-|       ✅       |   Wiki search engine                            |
-
-| Other          |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅       |   Create Custom meme (top text & bottom text)   |
-|       ✅       |   check data on the spread of Covid-19 in certain locations|
-|       ✅       |   Check Shipping info (indonesia only)          |
-|       ✅       |   Anti Spam                                     |
-|       ✅       |   Multi Language                                |
-
-| Grup Only      |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅       |   Promote User                                  |
-|       ✅       |   Demote User                                   |
-|       ✅       |   Kick User                                     |
-|       ✅       |   Delete bot message                            |
-|       ✅       |   Mention All User                              |
-|       ✅       |   Global Banned                                 |
-|       ✅       |   Filters Message                               |
-
-#### Suport Postgrasql database
-
-## To-Do
- - Add More Feature
- - More refactoring
- 
 ---
 
-## Getting Started
-
-This project support nodejs vesions 10,12,14,15
-
-### Install
-Clone this project
-
+# Instalasi
+## Heroku Buildpack
 ```bash
-> git clone https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot
-> cd KryPtoN-WhatsApp-Bot
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+## For Termux
+```ts
+apt update && apt upgrade
+pkg install bash nodejs ffmpeg libwebp git mc yarn
+git clone https://github.com/zeeone-ofc/Haruka-Md.git
+cd Haruka-Md
+yarn
+rm -rf session.json
+npm start
 ```
 
-Install the dependencies:
-
-```bash
-> npm install
+## Edit file
+`./config.json`
+```{
+    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/zeeoneofc",
+    "botName": "Haruka-Mdོ ",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
 ```
 
-### Usage
-1. run the Whatsapp bot
-
-```bash
-> npm start
-```
-
-after running it you need to scan the qr
-
-## Before deoloy heroku
-
-You must run this bot on your PC/laptop to generate a session
-after being authorized, in your folder there will be a file called
-```
-session.data.json
-```
-please copy on the `sessions` folder with the same name (don't change it)
-
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
-
-## Donate
-
-### Buy me coffee
-[Saweria](https://saweria.co/donate/Kry9toN)
- 
-[Paypal.me](https://www.paypal.me/KomodoOS)
- 
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://kry9ton.tech"><img src="https://avatars1.githubusercontent.com/u/44697929?v=4" width="100px;" alt=""/><br /><sub><b>Dhimas Bagus Prayoga</b></sub></a><br /><a href="https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot/commits?author=Kry9toN" title="Code">💻</a></td>
-    <td align="center"><a href="http://rzlamrr.github.io"><img src="https://avatars3.githubusercontent.com/u/46296998?v=4" width="100px;" alt=""/><br /><sub><b>dαvιѕтα</b></sub></a><br /><a href="https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot/issues?q=author%3Arzlamrr" title="Bug reports">🐛</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+## ```HOW TO DEPLOY```
